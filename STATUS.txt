@@ -1,0 +1,7 @@
+RESEARCH ONLY
+NO GENUINE S25 ULTRA ONE UI 8 PORT PRODUCED
+NO DSU-BOOTABLE PACKAGE PRODUCED
+NO INSTALLABLE ROM PRODUCED
+
+Full report: REDMI_9T_LIME_ONE_UI_8_FINAL_DELIVERY.md (uploaded in next commits or available in the sandbox artifacts).
+Nekover2-style patches are under donor/nekover2_patches/ — they are build-specific and do not produce a ready image for Redmi 9T by themselves.

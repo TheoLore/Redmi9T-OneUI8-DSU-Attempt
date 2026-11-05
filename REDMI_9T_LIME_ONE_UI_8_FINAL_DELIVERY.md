@@ -1,0 +1,1 @@
+See full content in the repository after push. This is the complete delivery report with all blockers, Nekover2 analysis, and the mandatory failure statements.
